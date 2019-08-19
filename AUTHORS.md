@@ -5,10 +5,10 @@
 * Subir los commits a github: `git push origin master`
 * Vincular el repositorio remoto de github: `git remote add origin <url_repositorio>`
 * Desvincular el repositorio remoto origin: `git remote rm origin`
-* Crear un commit: 'git commit -am "mensaje commit"'
-* Subir los commits a github: 'git push origin master'
-* Vincular el repositorio remoto de github: 'git remote add origin <url_repositorio>'
-* Desvincular el repositorio remoto origin: 'git remote rm origin'
+* Crear un commit: `git commit -am "mensaje commit"`
+* Subir los commits a github: `git push origin master`
+* Vincular el repositorio remoto de github: `git remote add origin <url_repositorio>`
+* Desvincular el repositorio remoto origin: `git remote rm origin`
 
 ## Comandos basicos de terminal
 
