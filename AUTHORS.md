@@ -1,6 +1,6 @@
 # Git cheatsheet
 
-* Inicializar un repo: 'git init'
+* Inicializar un repo: `git init`
 * Crear un commit: 'git commit -am "mensaje commit"'
 * Subir los commits a github: 'git push origin master'
 * Vincular el repositorio remoto de github: 'git remote add origin <url_repositorio>'
